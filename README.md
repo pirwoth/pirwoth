@@ -1,35 +1,46 @@
-# Hi there, I'm Pirwoth Samuel <img src="https://media.giphy.com/media/hvRJCLzPrTCf6/giphy.gif" width="25px">
+# <p align="center">───  P I R W O T H  S A M U E L  ───</p>
 
-###  Building high-performance, scalable apps with React, Next.js & TypeScript.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&text=FULL%20STACK%20DEVELOPER&fontSize=35&fontAlignY=50&fontColor=00f2ff&animation=fadeIn&stroke=00f2ff&strokeWidth=1" alt="Neon Header" />
+</p>
 
-- **Currently working on:** [MoBus](https://github.com/pirwoth/MoBus) — Revolutionizing online bus ticketing.
-- **Scaling:** [ShopKeeper](https://github.com/pirwoth/ShopKeeper) — A robust local shop management system.
-- **Ask me about:** React Server Components, Framer Motion animations, and TypeScript architecture.
-- **Reach me on Twitter:** [@sampirwoth](https://twitter.com/sampirwoth)
-
----
-
-###  Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+  <b>React</b> • <b>Next.js</b> • <b>TypeScript</b> • <b>Framer Motion</b>
 </p>
 
 ---
 
-###   Design Philosophy
-> *"If it doesn't move with Framer Motion, is it even a UI?"* > I focus on **Layout Animations**, **Shared Layout Transitions**, and **Performance Optimization** to ensure every millisecond of the user journey feels premium.
+### ⚡ CURRENT BUILDS
+> *High-performance apps, neon-fast execution.*
 
-<p align="right">
+* **[MoBus](https://github.com/pirwoth/MoBus)** — *Online bus ticketing ecosystem.*
+* **[ShopKeeper](https://github.com/pirwoth/ShopKeeper)** — *SaaS-level local shop management.*
+
+---
+
+### 🛠️ STACK
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00f2ff" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-Framer-000000?style=flat&logo=framer&logoColor=ff00ff" />
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=ffffff" />
+</p>
+
+---
+
+### 📊 ANALYTICS
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=pirwoth&show_icons=true&theme=neon&bg_color=000000&title_color=00f2ff&text_color=ffffff&icon_color=ff00ff&hide_border=true" alt="Stats" />
+</p>
+
+<p align="center">
   <a href="https://twitter.com/sampirwoth">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00f2ff" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pirwoth&color=00f2ff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
