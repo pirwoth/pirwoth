@@ -1,4 +1,3 @@
-# Hi there, I'm Pirwoth Samuel <img src="https://media.giphy.com/media/hvRJCLzPrTCf6/giphy.gif" width="25px">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=karmic&color=000000&text=Full%20Stack%20Developer&fontSize=40&fontAlignY=40&fontColor=ffffff&stroke=ffffff&strokeWidth=1" alt="Header Banner" />
