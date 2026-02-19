@@ -1,7 +1,7 @@
 # <p align="center">───  P I R W O T H  S A M U E L  ───</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=PRODUCT%20ENGINEERfontSize=35&fontAlignY=50&fontColor=00f2ff&stroke=00f2ff&strokeWidth=1)" alt="Neon Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=PRODUCT%20ENGINEER&fontSize=35&fontAlignY=50&fontColor=00f2ff&stroke=00f2ff&strokeWidth=1)" alt="Neon Header" />
 </p>
 
 <p align="center">
