@@ -10,7 +10,7 @@
 
 ---
 
-### ⚡ CURRENT BUILDS
+###   CURRENT BUILDS
 > *High-performance apps, neon-fast execution.*
 
 * **[MoBus](https://github.com/pirwoth/MoBus)** — *Online bus ticketing ecosystem.*
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ STACK
+###   STACK
 <p align="left">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00f2ff" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff" />
@@ -30,9 +30,10 @@
 
 ---
 
-### 📊 ANALYTICS
+###   ANALYTICS
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=pirwoth&show_icons=true&theme=neon&hide_border=true&bg_color=000000&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff" alt="Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pirwoth&theme=dark&hide_border=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirwoth&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
