@@ -1,7 +1,7 @@
 # <p align="center">───  P I R W O T H  S A M U E L  ───</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=FULL%20STACK%20DEVELOPER&fontSize=35&fontAlignY=50&fontColor=00f2ff&stroke=00f2ff&strokeWidth=1" alt="Neon Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=PRODUCT%20ENGINEER&fontSize=35&fontAlignY=50&fontColor=00f2ff&stroke=00f2ff&strokeWidth=1" alt="Neon Header" />
 </p>
 
 <p align="center">
@@ -32,8 +32,8 @@
 
 ###   ANALYTICS
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pirwoth&theme=dark&hide_border=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirwoth&theme=dark&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=pirwoth&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff" />
+</p>
 </p>
 
 <p align="center">
