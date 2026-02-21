@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <a href="https://twitter.com/sampirwoth">
+  <a href="https://twitter.com/samwoth">
     <img src="https://img.shields.io/badge/CONNECT_ON_X-000000?style=for-the-badge&logo=x&logoColor=00f2ff" />
   </a>
 </p>
